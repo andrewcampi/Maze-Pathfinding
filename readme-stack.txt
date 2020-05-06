@@ -1,15 +1,5 @@
 Andrew Campi
-Project 2 Part 2 (stack)
 
-#####EXTRA INFO:#######
-This part of the project did not require removing the extra "!":
-" Completely removing the unsuccessful trails involves saving a copy of local 
-maze on a stack each time a cell is explored. We will not attempt to resolve 
-this problem here in this project."
-
-For extra work, I stored a copy of the maze in the stack, resulting in a final
-maze that has not extra "!"
-########################
 
 
 ----------------------------------------------(maze1.dat)
