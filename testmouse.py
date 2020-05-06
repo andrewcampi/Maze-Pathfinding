@@ -1,5 +1,4 @@
 # Andrew Campi
-# CSCI 204 Project 2
 # testmouse.py
 # This file creates a maze object based on the user's inputs, then solves the maze and prints the solution.
 
