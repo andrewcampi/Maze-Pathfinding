@@ -1,5 +1,4 @@
 #Andrew Campi
-# CSCI 204 Project 2
 # MazeStartExitError.py
 # This file defines the MazeStartExitError Exception, which is raised when the given starting or exit location is a wall.
 
