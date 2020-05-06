@@ -1,5 +1,4 @@
 # Andrew Campi
-# CSCI 204 Project 2
 # maze.py
 # This file defines the maze object.
 
