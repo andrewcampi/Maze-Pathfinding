@@ -1,5 +1,4 @@
 # Andrew Campi
-# CSCI 204 Project 2
 # backtracking_mouserecursion.py
 # This file defines the mouse object, which contains functions to solve the maze.
 
